@@ -45,6 +45,7 @@ public class TestSolr {
 			for (File file : files) {
 				List<SolrInputDocument> docList = parseFile(file);
 				addSolr(docList);
+				System.out.println("rr");
 			}
 		}
 
