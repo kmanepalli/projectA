@@ -42,7 +42,7 @@ public class Sitemap {
 
         for (SolrDocument doc : locList) {
             try {
-            	System.out.println("hi");
+            	System.out.println("hiee");
                 ids.add(doc.get("hot.id").toString());
             } catch (Exception e) {
 

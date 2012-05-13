@@ -55,7 +55,7 @@ public class LocationDataGen {
                   
                     }
                      }
-            System.out.println(li.size() +"p");
+            System.out.println(li.size() +"printer");
             for (Object object : li) {
                 System.out.println(object);
             }
