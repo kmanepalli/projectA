@@ -20,7 +20,7 @@ public class LocationDataGen {
         try {
             
             
-			System.out.println("rr");           
+			System.out.println("rppppr");           
             SolrServer solrLocServer = new CommonsHttpSolrServer("http://egcs02.prod.o.com:8982/location");
             
             FileReader fileReader = new FileReader("/Users/mkchakravarti/Documents/ans_mkt.txt");
